@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rory
 
 💻 Aspiring Software Engineer  
-🐍 Currently learning Python on https://boot.dev  
+🐍 Currently learning Python on [boot.dev](https://www.boot.dev?bannerlord=rory)  
 🚀 Building projects and improving every day  
 
 ---
