@@ -76,6 +76,8 @@ A Python-based text processing bot focused on:
 
 ## 📫 Connect
 
+- Email: hello@rorywalker.dev
+- Website: https://rorywalker.dev
 - GitHub: https://github.com/Turkeyt00th
 
 ---
