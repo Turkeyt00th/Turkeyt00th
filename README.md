@@ -16,8 +16,6 @@ Right now, I'm focused on:
 - Building small, practical projects to reinforce learning
 - Gradually expanding into web development
 
-I believe in learning by doing — everything here reflects that.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -84,9 +82,9 @@ A Python-based text processing bot focused on:
 
 ## ⚡ Personal Note
 
-This GitHub is a work in progress — just like me.
+This GitHub is a work in progress... just like me!
 
 If you're more experienced, feedback is always welcome.  
-If you're on a similar path, keep going — consistency beats talent.
+If you're on a similar path, keep going! Consistency beats talent.
 
 ---
